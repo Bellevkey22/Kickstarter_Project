@@ -10,7 +10,11 @@ A simple SQL project analyzing data from the [Kickstarter Projects dataset](ks-p
 - **Size:** `46.5 MB` (update accordingly)
 - **Records:** `323,750` rows
 - **Fields:**
-![Schema Preview](Screenshot 2025-07-04 at 4.53.59 PM.png)
+Schema Preview
+
+![Schema Preview](https://github.com/Bellevkey22/Kickstarter_Project/blob/main/Screenshot%202025-07-04%20at%204.53.59%20PM.png?raw=true))
+
+
 ---
 
 ## 🛠️ Tools & Technologies
@@ -31,7 +35,5 @@ A simple SQL project analyzing data from the [Kickstarter Projects dataset](ks-p
   - What is the average goal of failed vs. successful projects?
   - How do countries and launch years affect project success?
 
----
 
-## 📌 Folder Structure
 
